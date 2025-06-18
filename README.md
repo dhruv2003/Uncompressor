@@ -1,1 +1,2 @@
 "# Uncompressor" 
+pip install rarfile
